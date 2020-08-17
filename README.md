@@ -1,14 +1,18 @@
 # 你好, 我叫内特
 
+我来自尔湾，但是我现在住在旧金山。
 <a href="https://cse.ucsd.edu"
 target="_blank">我在加州圣地亚哥大学毕业了；我学的计算机科学。</a>
 <br/>
 
-我在旧金山是软件工程师。My computer science interests lie in the boundary
-between theory and practical computer science; specifically, I like to discuss
-algorithms, computer security, computer systems (especially operating systems),
-programming languages, and computer networks. I enjoy reading research papers in
-all of these domains (and more!).
+我是一名计算机科学家和软件工程师。My computer science interests lie in the boundary
+between theory and practical computer science; my favorite domains to discuss
+are algorithms, computer security, computer systems (especially operating systems),
+programming languages, and computer networks.
+<br/>
+
+Outside of CS, one interest of mine is linguistics. Puedo hablar dos idomas y
+estoy aprendiendo 中文 to bring my total up to three.
 <br/>
 
 Check out my <a href="https://nate-browne.github.io/innermachinations"

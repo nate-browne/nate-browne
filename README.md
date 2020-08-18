@@ -1,4 +1,4 @@
-![ya boi](./yaboi.jpg)
+<img src="https://github.com/nate-browne/nate-browne/blob/master/yaboi.jpg" alt="ya boi">
 # 你好, 我叫内特
 
 我来自尔湾，但是我现在住在旧金山。

@@ -1,4 +1,4 @@
-<img src="https://rawgithubusercontent.com/nate-browne/nate-browne/banner.png" alt="ya boi" width="100%"/>
+<img src="https://github.com/nate-browne/nate-browne/blob/master/banner.png" alt="ya boi" width="100%"/>
 <br/>
 
 我来自尔湾，但是我现在住在旧金山。

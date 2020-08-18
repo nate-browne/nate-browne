@@ -1,4 +1,4 @@
-<img src="https://github.com/nate-browne/nate-browne/blob/master/yaboi.jpg" alt="ya boi" width="40%" height="40%"/>
+<img src="https://github.com/nate-browne/nate-browne/blob/master/yaboi.jpg" alt="ya boi" width="32%" height="32%"/>
 <br/>
 
 # 你好, 我叫内特

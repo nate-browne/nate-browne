@@ -1,4 +1,4 @@
-<img src="https://github.com/nate-browne/nate-browne/blob/master/yaboi.jpg" alt="ya boi">
+<img src="https://github.com/nate-browne/nate-browne/blob/master/yaboi.jpg" alt="ya boi" width="100%" height="40%"/>
 # 你好, 我叫内特
 
 我来自尔湾，但是我现在住在旧金山。

@@ -1,7 +1,5 @@
-<img src="https://github.com/nate-browne/nate-browne/blob/master/yaboi.jpg" alt="ya boi" width="32%" height="32%"/>
+<img src="https://rawgithubusercontent.com/nate-browne/nate-browne/banner.png" alt="ya boi" width="100%"/>
 <br/>
-
-# 你好, 我叫内特
 
 我来自尔湾，但是我现在住在旧金山。
 <a href="https://cse.ucsd.edu"

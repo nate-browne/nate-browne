@@ -3,7 +3,7 @@
 
 我来自尔湾，但是我现在住在旧金山。
 <a href="https://cse.ucsd.edu"
-target="_blank">我从加州圣地亚哥大学毕业的；我学的计算机科学。</a>
+target="_blank">我从加州圣地亚哥大学毕业的，学的计算机科学。</a>
 <br/>
 
 我是一名计算机科学家和软件工程师。My computer science interests lie in the boundary

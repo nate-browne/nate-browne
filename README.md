@@ -6,7 +6,7 @@
 target="_blank">我从加州圣地亚哥大学毕业的，学的计算机科学。</a>
 <br/>
 
-_translations: banner says "Hello, I'm Nate". Text above says "I am a computer scientist and software engineer. I graduated from UC San Diego and studied computer science_
+_translations: banner says "Hello, I'm Nate". Text above says "I am a computer scientist and software engineer. I graduated from UC San Diego and studied computer science."_
 
 My computer science interests lie in the boundary
 between theory and practical computer science; my favorite domains to discuss

@@ -1,10 +1,3 @@
-<div align="center">
-<sup>Hello! You are visitor number:</sup>
-  
-![view counter](https://smallcounter.com/count.php?c_style=14&id=1654718184)
-
-</div>
-
 我是一名计算机科学家和软件工程师。
 <a href="https://cse.ucsd.edu"
 target="_blank">我从加州圣地亚哥大学毕业的，学的计算机科学。</a>

@@ -15,3 +15,5 @@ Check out my <a href="https://nate-browne.github.io/innermachinations"
 target="_blank">blog</a> (though I'm an infrequent poster), and go check out
 <a href="https://nate-browne.github.io">my website</a> for some more information
 (including Spotify playlists).
+
+![](https://komarev.com/ghpvc/?username=nate-browne&style=flat-square)

@@ -26,4 +26,6 @@ target="_blank">blog</a> (though I'm an infrequent poster), and go check out
 <a href="https://nate-browne.github.io">my website</a> for some more information
 (including Spotify playlists).
 
-![](https://komarev.com/ghpvc/?username=nate-browne&style=flat-square)
+![view counter](https://komarev.com/ghpvc/?username=nate-browne&style=flat-square)
+
+![github score](https://github-readme-stats.vercel.app/api?username=nate-browne&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true)

@@ -23,6 +23,9 @@ are algorithms, computer security, computer systems (especially operating system
 programming languages, and computer networks.
 <br/>
 
+Another interest of mine are spoken languages. Linguistics and accent study have always fascinated me, and I hope one day to go from bilingual to trilingual in the above languages.
+<br/>
+
 Check out my <a href="https://nate-browne.github.io/innermachinations"
 target="_blank">blog</a> (though I'm an infrequent poster), and go check out
 <a href="https://nate-browne.github.io">my website</a> for some more information

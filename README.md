@@ -23,7 +23,7 @@ are algorithms, computer security, computer systems (especially operating system
 programming languages, and computer networks.
 <br/>
 
-Another interest of mine are spoken languages. Linguistics and accent study have always fascinated me, and I hope one day to go from bilingual to trilingual in the above languages.
+Another interest of mine are spoken languages. Linguistics and accent study have always fascinated me, and I hope one day to go from bilingually competent in english and español and learning 中文 to trilingually fluent in the above languages. Not sure if either of those terms are official, but I'm sticking with em ¯\\\_(ツ)_/¯
 <br/>
 
 Check out my <a href="https://nate-browne.github.io/innermachinations"
